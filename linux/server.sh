@@ -33,8 +33,8 @@ echo "source $HOME/.oh-my-zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zs
 sleep 1s
 
 echo "***** Enviroment setup.. *****"
-sudo git config --global user.name "Kry9toN"
-sudo git config --global user.email "dhimasbagusprayoga@gmail.com"
+sudo git config --global user.name "a9ito"
+sudo git config --global user.email "anggit.febriantoro@gmail.com"
 sudo /usr/sbin/update-ccache-symlinks
 echo 'export PATH="/usr/lib/ccache:$PATH"' | tee -a ~/.zshrc
 source ~/.bashrc && echo $PATH
